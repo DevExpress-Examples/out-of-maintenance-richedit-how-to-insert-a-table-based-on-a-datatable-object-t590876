@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/T589084/Controllers/HomeController.cs)
+* [MyModel.cs](./CS/T589084/Models/MyModel.cs)
+* [_RichEditPartial.cshtml](./CS/T589084/Views/Home/_RichEditPartial.cshtml)
+* **[Index.cshtml](./CS/T589084/Views/Home/Index.cshtml)**
+<!-- default file list end -->
 # RichEdit - How to insert a table based on a DataTable object
 
 
