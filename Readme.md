@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # RichEdit - How to insert a table based on a DataTable object
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t590876)**
+**[[Run Online]](https://codecentral.devexpress.com/t590876/)**
 <!-- run online end -->
 
 
